@@ -1,0 +1,10 @@
+This is problem B on the Midterm for ISTA 401. In short this project is creating a 20X20 Tic-Tac-Toe game against the computer. The difference is though, that the computer can play after a certain time frame which changes every time it plays. In other words the first move it plays may be 5 seconds apart from the second but the third move, completely independent of your moves, will be 95% of the previous time.
+
+  The Program will then check to see if there is a winner, 5 in-a-row.
+
+a.) There is a 20X20 grid on a screen and a computer.
+Click to make your move.
+
+b.) This was a simple piece, just some basic for loops using the java library and using a built in mouse tracker.
+
+c.) Simplicity. My artistic view of this piece is to make the game the highlight. Do you have the patience to see if you can win against the computer?
